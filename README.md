@@ -61,22 +61,14 @@
 </p>
 
 
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Project
-<p><a href="https://github.com/maruf5730/Projects-Link/blob/main/README.md" >📚 Latest works/Projects-</p>
-
-
-##Some Usefull site :
-- <p><a href="https://code-decode-two.vercel.app/" >Code || Decode</p>
-
 <h2 align="left"> :mailbox: Contact with me:</h2>
 <div align="center">
      
 <!-- Social Media Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/maruf5730/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/sajjad.hossain.jim)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/maruf.hasan.5730)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801600101810)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801784925341)
 <!-- Contact Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
 </div>
@@ -86,13 +78,7 @@
 <div align="center">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf5730&custom_title=My%20Contribution%20Graph&bg_color=FFFFF&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 </div>
-<!---
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf5730&custom_title=My%20Contribution%20Graph&bg_color=FFFFF&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/maruf5730)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf5730&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maruf5730&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruf5730&theme=github_dark" />
-</div>  --->
+
 
 Thanks for visiting my profile! Have a great day! 😊
 
