@@ -8,7 +8,7 @@
 <h3 align="center">A Junior level Data Scientist  from Bangladesh , Asia!!🥸</h3>  
      
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
-- 🌱 I’m currently improve my Web Development skill. 
+- 🌱 I’m currently improve my Data science skill. 
 - 📫 How to reach me:  <a href="mailto:maruf573015@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="maruf5730" height="25" width="45" target="_blank" />
 
 
