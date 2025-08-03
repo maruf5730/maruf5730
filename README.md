@@ -10,7 +10,7 @@
 - 🔭 I’m currently study on Computer Science And Engineering in Daffodil International Univarsity.
 - 🌱 I’m currently improve my Web Development skill. 
 - 📫 How to reach me:  <a href="mailto:maruf573015@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" alt="maruf5730" height="25" width="45" target="_blank" />
-- Check out my some post:  <a href="https://medium.com/@maruf5730" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*L2USH3sKgyymJJWr.png" alt="maruf5730" height="25" width="45" target="_blank" />
+
 
 ## Introduction
 <p align="center">
