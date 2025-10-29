@@ -9,9 +9,10 @@
 - 📊 Passionate about **Data Science**, **Machine Learning**, and **AI Applications**.  
 - 🌱 Focused on improving my **Python**, **Data Analysis**, and **Model Building** skills.  
 - 📫 Reach me at:  
-  <a href="mailto:maruf573015@gmail.com" target="_blank">
+  <a href="mailto:mdmarufhasan138313@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="35"/>
   </a>
+
 
 ---
 
