@@ -24,9 +24,10 @@
 ---
 
 ## 📈 GitHub Analytics
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maruf5730&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf5730&layout=compact&langs_count=8&hide_border=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maruf5730&show_icons=true&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf5730&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
