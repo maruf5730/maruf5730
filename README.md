@@ -1,24 +1,24 @@
 # 👋 Hi there, I'm **Maruf Hasan**
 
-<h3 align="center">A Junior Data Scientist from Bangladesh, Asia 🥸</h3>
+<h3 align="center">A Passionate Junior Data Scientist from Bangladesh 🇧🇩</h3>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Currently studying **Computer Science and Engineering** at **Daffodil International University**.  
-- 📊 Passionate about **Data Science**, **Machine Learning**, and **AI Applications**.  
-- 🌱 Focused on improving my **Python**, **Data Analysis**, and **Model Building** skills.  
+- 🎓 Studying **Computer Science and Engineering (CSE)** at **Daffodil International University**.  
+- 🤖 Interested in **Machine Learning**, **Deep Learning**, and **Data-Driven AI Applications**.  
+- 📊 Skilled in **Python**, **Data Analysis**, **Visualization**, and **Predictive Modeling**.  
+- 🧩 Love transforming data into actionable insights using tools like **Pandas**, **NumPy**, **Matplotlib**, and **Scikit-learn**.  
 - 📫 Reach me at:  
   <a href="mailto:mdmarufhasan138313@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="35"/>
   </a>
 
-
 ---
 
 ## Introduction
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Data+Scientist%F0%9F%92%BB%F0%9F%92%BB;3+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+Ml+DL+%F0%9F%94%A5+Python++Data+Visualization" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78100&center=true&width=800&height=60&lines=I+am+a+Data+Scientist%F0%9F%92%BB%F0%9F%92%BB;3+years%2B+Coding+Experience+.+.+.;Now+I+am+Practicing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+Ml+DL+%F0%9F%94%A5+Python+Data+Visualization" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -62,11 +62,26 @@
   </a>
 </p>
 
+---
+
 ## 🧰 Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,vercel,netlify,postman,figma,vite&perline=5" />
   </a>
+</p>
+
+---
+
+## 📊 Data Science Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -89,11 +104,11 @@
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf5730&custom_title=Contribution%20Graph&bg_color=ffffff&color=0059B3&line=0E75B6&point=0073E6&area=true&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! Have a wonderful day! 😊</h3>
+<h3 align="center">✨ Thanks for visiting my profile! Keep exploring and keep learning! 😊</h3>
